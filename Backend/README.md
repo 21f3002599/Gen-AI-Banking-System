@@ -1,7 +1,7 @@
 ---
 
-### Part 2: Backend README
-**Location:** `/backend/README.md`
+###  Backend 
+
 
 ```markdown
 # Vault42 Backend - API & AI Logic ⚙️

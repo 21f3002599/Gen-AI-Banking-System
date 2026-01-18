@@ -36,3 +36,10 @@ Vault42 is an AI-driven banking platform developed as a Software Engineering Pro
 ├── backend/              # FastAPI application & ML Models
 ├── docs/                 # Milestone reports and design diagrams
 └── README.md             # Main project documentation
+
+
+Contributors :
+MD Sadiq Hasan Ansari 
+Rajeevan Reddy
+Abhishek Verma
+Shakti Soni
